@@ -12,3 +12,7 @@ whitenoise
 django-heroku
 requests
 bs4
+numpy
+pandas
+matplotlib
+urllib
