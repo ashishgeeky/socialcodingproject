@@ -15,4 +15,4 @@ bs4
 numpy
 pandas
 matplotlib
-urllib
+urllib3
